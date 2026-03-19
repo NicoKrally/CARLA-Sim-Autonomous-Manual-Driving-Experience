@@ -1,0 +1,1 @@
+Wheel, main body, and clamp design by @ibrahfrd, added and improved upon by me
